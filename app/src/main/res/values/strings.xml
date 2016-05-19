@@ -1,0 +1,10 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">JustJava</string>
+
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+
+    <string name="thank_you">Thank you!</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
